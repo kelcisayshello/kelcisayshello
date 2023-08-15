@@ -1,1 +1,1 @@
-![platformer GIF animation](https://github.com/k3nsah/k3nsah/blob/main/platformer.gif)
+![platformer GIF animation](https://github.com/k3nsah/k3nsah/blob/main/mario_github.gif)
